@@ -1,0 +1,1 @@
+# generated-barcode-in-codeigniter-with-library-Ciqrcode
